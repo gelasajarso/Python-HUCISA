@@ -23,5 +23,5 @@ This repository includes solutions and examples focusing on:
 To get started with this repository, clone it to your local machine using the following command:  
 
 ```bash  
-git clone https://github.com/gelasajarso/Python-HUSICA.git  
-cd Python-HUSICA  
+git clone https://github.com/gelasajarso/Python-HUCISA.git  
+cd Python-HUCISA  
