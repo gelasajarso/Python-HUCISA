@@ -1,6 +1,6 @@
 # Python Fundamentals and Competitive Programming  
 
-Welcome to the Python-HUSICA repository! This is a place to learn and practice Python basics, data structures, algorithms, and coding challenges. You can use this repository to improve your programming skills with clear examples and explanations.
+Welcome to the Python-HUCISA repository! This is a place to learn and practice Python basics, data structures, algorithms, and coding challenges. You can use this repository to improve your programming skills with clear examples and explanations.
 
 ## Table of Contents  
 
